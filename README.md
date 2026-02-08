@@ -161,7 +161,7 @@ Computer Vision: [Object Detection, Image Classification, Feature Extraction]
 | 🎯 Project | 📝 Description | 💻 Tech Stack |
 |-----------|---------------|-------------|
 | 🔍 **[Object Detection App](https://github.com/tirthosaha69/Object-detection-using-Deep-Learning)** | Advanced image classification web app with drag-and-drop UI using trained ML models | `Flask` `Deep Learning` `Computer Vision` |
-| 📰 **[Fake News Detector](https://github.com/tirthosaha69/Fake-news-prediction-using-Machine-learning)** | ML-powered fake news detection using Logistic Regression with TF-IDF vectorization | `Flask` `ML` `NLP` `Text Processing` |
+| 📰 **[Hand Gester Project](https://github.com/tirthosaha69/Fake-news-prediction-using-Machine-learning)** | ML-powered fake news detection using Logistic Regression with TF-IDF vectorization | `Flask` `ML` `NLP` `Text Processing` |
 | 🐕 **[Dog vs Cat Classifier](https://github.com/tirthosaha69/Dog-vs-Cat-classifier-using-Deep-Learning)** | End-to-end Deep Learning web app with Transfer Learning for high-accuracy classification | `TensorFlow` `Keras` `Flask` `CNN` |
 | 💬 **[Natural Language to SQL](https://github.com/tirthosaha69/natural-language-to-sql)** | Flask dashboard converting plain English to SQL queries with CSV upload support | `Flask` `NLP` `SQLite` `JavaScript` |
 | 🧠 **[Parkinson's Disease Detection](https://github.com/tirthosaha69/parkinson-s-disease-detection-using-ML)** | SVM-based medical diagnosis app using biomedical voice measurements | `Flask` `SVM` `Bootstrap` `Healthcare ML` |
