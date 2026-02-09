@@ -160,7 +160,7 @@ Computer Vision: [Object Detection, Image Classification, Feature Extraction]
 
 | 🎯 Project | 📝 Description | 💻 Tech Stack |
 |-----------|---------------|-------------|
-| 🔍 **[Eye Gesture Project](https://github.com/rajdipsahastudents-arch/eye-gesture-project)** | Advanced image classification web app with drag-and-drop UI using trained ML models | `Flask` `Deep Learning` `Computer Vision` |
+| 🔍 **[Ghost Detector App](https://github.com/rajdipsahastudents-arch/Ghost-Detector-App)** | Advanced image classification web app with drag-and-drop UI using trained ML models | `Flask` `Deep Learning` `Computer Vision` |
 | 📰 **[Hand Gester Project](https://github.com/rajdipsahastudents-arch/hand-gestures-project)** | ML-powered fake news detection using Logistic Regression with TF-IDF vectorization | `Flask` `ML` `NLP` `Text Processing` |
 | 💬 **[Ai Pdf Editor](https://github.com/rajdipsahastudents-arch/ai-pdf-editor)** | End-to-end Deep Learning web app with Transfer Learning for high-accuracy classification | `TensorFlow` `Keras` `Flask` `CNN` |
 | 🐕 **[Cats Project Funny](https://github.com/rajdipsahastudents-arch/cats-project-funny)** | Flask dashboard converting plain English to SQL queries with CSV upload support | `Flask` `NLP` `SQLite` `JavaScript` |
